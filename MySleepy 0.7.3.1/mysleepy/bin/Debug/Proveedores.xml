@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Proveedor>
+    <IDPROVEEDOR>1</IDPROVEEDOR>
+    <NIF>05745874B</NIF>
+    <NOMBRE>Juanjo</NOMBRE>
+    <DIRECCION>Calle Falsa</DIRECCION>
+    <POBLACION>Ciudad Real</POBLACION>
+    <PROVINCIA>Ciudad Real</PROVINCIA>
+    <CODIGOPOSTAL>15008</CODIGOPOSTAL>
+    <TELEFONO>659874563</TELEFONO>
+    <COMUNIDAD>Castilla-La Mancha</COMUNIDAD>
+  </Proveedor>
+  <Proveedor>
+    <IDPROVEEDOR>2</IDPROVEEDOR>
+    <NIF>05784942B</NIF>
+    <NOMBRE>Javier</NOMBRE>
+    <DIRECCION>Calle Falsa 2</DIRECCION>
+    <POBLACION>Ciudad Real</POBLACION>
+    <PROVINCIA>Ciudad Real</PROVINCIA>
+    <CODIGOPOSTAL>15008</CODIGOPOSTAL>
+    <TELEFONO>654785412</TELEFONO>
+    <COMUNIDAD>Castilla-La Mancha</COMUNIDAD>
+  </Proveedor>
+</NewDataSet>

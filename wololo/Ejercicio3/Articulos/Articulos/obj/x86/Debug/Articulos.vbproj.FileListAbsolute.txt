@@ -1,0 +1,67 @@
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\bin\Debug\Articulos.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\bin\Debug\Articulos.xml
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.frmArticulos.resources
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+C:\Users\Luis\documents\visual studio 2010\Projects\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+G:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+G:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+G:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\bin\Debug\Articulos.exe
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\bin\Debug\Articulos.pdb
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\bin\Debug\Articulos.xml
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.frmArticulos.resources
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\instituto\2012-2013\DesarrollodeInterfaces\Tema2\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema2 XML\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema2 XML\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema2 XML\Examen Tema2\Ejercicio3y4\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema1 Interfaces\Examen\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema1 Interfaces\Examen\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+D:\PENDRIVE\instituto\2013-2014\DesarrollodeInterfaces\Tema1 Interfaces\Examen\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.exe
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.xml
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.frmArticulos.resources
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.exe
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.pdb
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.xml
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\bin\Debug\Oracle.DataAccess.dll
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.frmArticulos.resources
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Juan\Escritorio\MaterialEjercicios\Ejercicio3\Articulos\Articulos\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.pdb
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.exe
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\bin\Debug\Articulos.xml
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.frmArticulos.resources
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.vbproj.GenerateResource.Cache
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.exe
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.xml
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio3\Articulos\Articulos\obj\x86\Debug\Articulos.pdb

@@ -1,0 +1,38 @@
+--NOTA: COMPROBAR LOS DATOS DE CONEXIÓN A LA BASE DE DATOS ANTES DE ARRANCAR EL PROGRAMA--
+--Instalar la fuente Portal.ttf de la carpeta recursosMySleepy antes de ejecutar el programa
+
+======0.6=======
+-Cambiado e implementado sistema de gestion de poblaciones en nuevo cliente.
+-Cambiado e implementado sistema de gestion de poblaciones en Modificar cliente (no funcional del todo aún).
+-Falta añadir filtrados de datos.
+-Generado el script MINIERP con cambios en clientes (añadido campo comunidad)
+======0.4.1=======
+-Implementado método actualizarDato en MetodosComunesSQL
+-Implementada la modificación y actualización de los datos de los clientes en IFClientes, ModificarCliente
+-Cambios gráficos
+=======0.4===========
+Implementados cambios en clases Usuarios, Clientes y Pedidos.
+=======0.3===========
+-Implementados cambios gráficos
+
+=======26-11-2014========
+-implementadas clases usuarios javi.
+-implementadas clases pedidos dani.
+-implementado inserción de clientes en clase clientes de aitor
+=======24-11-2014========
+-implementado login de javi
+-actualizado el script de la base de datos (USUARIOS añadido el campo ROL_USU)
+*Aún sin unir el proyecto
+=======29-11-2014========
+- Actualizado formulario de nuevo pedido
+- Copiados formularios de Articulos y Nuevos Articulos
+
+=======03-12-2014======== Versión 0.4.3
+- Reestructuración de los fomularios de Pedidos
+- Creación del formulario AddArticuloGUI
+- Creación dos interfaces (IForm e IArticulos) --> Necesario para la comunicación entre formularios (paso de datos, etc)
+- Añadidos botones de cargar datos en ClientesGUI y ArticulosGUI (ocultos por defecto, sólo visibles a través de un nuevo pedido)
+- Estos botones implementan los métodos y código necesarios trabajar con interfaces.
+
+
+

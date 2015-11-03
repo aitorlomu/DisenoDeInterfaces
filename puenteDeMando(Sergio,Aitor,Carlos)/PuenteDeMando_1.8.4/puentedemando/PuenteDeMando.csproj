@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{87769A32-55EC-48CB-BFAF-164D77B2E07A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PuenteDeMando</RootNamespace>
+    <AssemblyName>PuenteDeMando</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUsGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutUsGUI.Designer.cs">
+      <DependentUpon>AboutUsGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autodestruccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autodestruccion.Designer.cs">
+      <DependentUpon>Autodestruccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Casilla.cs" />
+    <Compile Include="Escudo.cs" />
+    <Compile Include="EscudoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscudoGUI.Designer.cs">
+      <DependentUpon>EscudoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMensaje.designer.cs">
+      <DependentUpon>FormMensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListaEMensajes.cs" />
+    <Compile Include="ListaOficiales.cs" />
+    <Compile Include="Mensaje.cs" />
+    <Compile Include="MetodosAuxiliares.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PuenteDeMandoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PuenteDeMandoGUI.Designer.cs">
+      <DependentUpon>PuenteDeMandoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaOficial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaOficial.Designer.cs">
+      <DependentUpon>VentanaOficial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Humanos.cs" />
+    <Compile Include="Oficial.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vulcanos.cs" />
+    <EmbeddedResource Include="AboutUsGUI.resx">
+      <DependentUpon>AboutUsGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autodestruccion.resx">
+      <DependentUpon>Autodestruccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscudoGUI.resx">
+      <DependentUpon>EscudoGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMensaje.resx">
+      <DependentUpon>FormMensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PuenteDeMandoGUI.resx">
+      <DependentUpon>PuenteDeMandoGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaOficial.resx">
+      <DependentUpon>VentanaOficial.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comunicacion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kirk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\McCoy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ohara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Soval.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tuvok.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zulu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\el_espacio_con_colores-1280x800.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celdaEscudoBad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\celdaEscudoGood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uss_enterprise_0_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uss_enterprise_20_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uss_enterprise_50_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uss_enterprise_75_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uss_enterprise_100_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star Trek - VOY Theme.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fotoSergio.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fotoSergioPerfil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aboutus.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

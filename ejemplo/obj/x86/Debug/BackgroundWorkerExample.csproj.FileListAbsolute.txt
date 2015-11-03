@@ -1,0 +1,5 @@
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ejemplo\bin\Debug\WindowsApplication.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ejemplo\bin\Debug\WindowsApplication.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ejemplo\obj\x86\Debug\BackgroundWorkerExample.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ejemplo\obj\x86\Debug\WindowsApplication.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ejemplo\obj\x86\Debug\WindowsApplication.pdb

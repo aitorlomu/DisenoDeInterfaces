@@ -1,0 +1,460 @@
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\bin\Debug\MySleepy.exe.config
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\bin\Debug\MySleepy.exe
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\bin\Debug\MySleepy.pdb
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.exe
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.pdb
+c:\users\alumnom\documents\visual studio 2013\Projects\MySleepy\MySleepy\obj\Debug\MySleepy.ClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.ClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\Programa\MySleepy\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.ClienteGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.NuevoUsuarioGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\MySleepy\Programa\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.ClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.NuevoUsuarioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.2\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.ClienteGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.NuevoUsuarioGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.3\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+E:\Docus\DAM2\Desarrollo de Interfaces\Tema1\MySleepy_PROJECT\0.3\MySleepy\bin\Debug\MySleepy.exe.config
+E:\Docus\DAM2\Desarrollo de Interfaces\Tema1\MySleepy_PROJECT\0.3\MySleepy\obj\Debug\MySleepy.exe
+E:\Docus\DAM2\Desarrollo de Interfaces\Tema1\MySleepy_PROJECT\0.3\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Aitor\Documents\dam2\MySleepy\0.3\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.4\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Daniel\Desktop\MySleepy\0.4.2\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\ALUMNOM\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Juan\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Juan\Desktop\0.4.3\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Juan\Desktop\0.4.3\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Juan\Desktop\0.4.3\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.5.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.6\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Javier\Dropbox\MySleepy_PROJECT\Unificado\0.7\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Aitor\Documents\dam2\Desarrollo de Intefaces\MySleepy\0.7\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Daniel\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.exe.config
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.exe
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.pdb
+C:\Users\Javier\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.exe
+C:\Users\Javier\Desktop\0.7.1\MySleepy\bin\Debug\MySleepy.pdb
+C:\Users\Javier\Desktop\0.7.1\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Desktop\0.7.1\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+C:\Users\Javier\Desktop\0.7.1\MySleepy\obj\Debug\MySleepy.IFLog.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.IFLog.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.2b\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.IFLog.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\bin\Debug\MySleepy.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.csproj.ResolveComReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.AddArticuloGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ArticuloNuevoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ArticulosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.IFLog.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.IFUsuariosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ModificarCliente.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.IFClientesGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.EscritorioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.IniciarSesionGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ModificarUsuarioGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.NuevoClienteGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.NuevoPedidoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.NuevoUsuario.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.PedidosGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\bin\Debug\MySleepy.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\bin\Debug\MySleepy.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ProveedoresGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\MySleepy\0.7.3.1\MySleepy\obj\Debug\MySleepy.ProveedoresNuevoGUI.resources

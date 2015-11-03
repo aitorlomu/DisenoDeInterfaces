@@ -1,0 +1,56 @@
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Inicio.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Users\Luis\Documents\Visual Studio 2010\Projects\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Inicio.resources
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alumno\Desktop\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Inicio.resources
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\MaterialEjercicios\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Inicio.resources
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Juan\Escritorio\Ejercicio2\Ejercicio2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Inicio.resources
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\APUNTES\INTERFACES\MaterialEjercicios\EXAMEN A ENTREGAR A LUIS\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.exe
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.xml
+F:\2ºDAM\DESARROLLO DE INTERFACES\Visual Studio 2013\Projects\EXAMEN RESUELTO\Ejercicio2\Ejercicio2\obj\x86\Debug\Ejercicio2.pdb

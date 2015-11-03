@@ -1,0 +1,3 @@
+En está página te explica como hacer un autoincrement en Oracle
+http://www.techonthenet.com/oracle/sequences.php
+<NOMBRESECUENCIA>.NEXTVAL//ESTO SE PONE CUANDO HAYA QUE PASARLE EL VALOR DEL ID DE CUALQUIER TABLA

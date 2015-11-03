@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE8AE1F9-D831-4C96-89F2-715C512807EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySleepy</RootNamespace>
+    <AssemblyName>MySleepy</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Oracle.DataAccess, Version=2.112.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\oracle\product\11.2.0\dbhome_1\ODP.NET\bin\2.x\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.121.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddArticuloGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddArticuloGUI.Designer.cs">
+      <DependentUpon>AddArticuloGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArticuloNuevoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArticuloNuevoGUI.designer.cs">
+      <DependentUpon>ArticuloNuevoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArticulosGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArticulosGUI.Designer.cs">
+      <DependentUpon>ArticulosGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IArticulos.cs" />
+    <Compile Include="IFLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IFLog.Designer.cs">
+      <DependentUpon>IFLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IFUsuariosGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IFUsuariosGUI.designer.cs">
+      <DependentUpon>IFUsuariosGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INuevoPedido.cs" />
+    <Compile Include="ModificarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarCliente.Designer.cs">
+      <DependentUpon>ModificarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IFClientesGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IFClientesGUI.Designer.cs">
+      <DependentUpon>IFClientesGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EscritorioGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EscritorioGUI.Designer.cs">
+      <DependentUpon>EscritorioGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniciarSesionGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IniciarSesionGUI.Designer.cs">
+      <DependentUpon>IniciarSesionGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MetodosComunes.cs" />
+    <Compile Include="MetodosConsultasSQL.cs" />
+    <Compile Include="ModificarUsuarioGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarUsuarioGUI.designer.cs">
+      <DependentUpon>ModificarUsuarioGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoClienteGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoClienteGUI.designer.cs">
+      <DependentUpon>NuevoClienteGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoPedidoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoPedidoGUI.Designer.cs">
+      <DependentUpon>NuevoPedidoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoUsuario.Designer.cs">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PedidosGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PedidosGUI.Designer.cs">
+      <DependentUpon>PedidosGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProveedoresGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProveedoresGUI.Designer.cs">
+      <DependentUpon>ProveedoresGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProveedoresNuevoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProveedoresNuevoGUI.Designer.cs">
+      <DependentUpon>ProveedoresNuevoGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validaciones.cs" />
+    <Compile Include="XML.cs" />
+    <EmbeddedResource Include="AddArticuloGUI.resx">
+      <DependentUpon>AddArticuloGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArticuloNuevoGUI.resx">
+      <DependentUpon>ArticuloNuevoGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArticulosGUI.resx">
+      <DependentUpon>ArticulosGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IFLog.resx">
+      <DependentUpon>IFLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IFUsuariosGUI.resx">
+      <DependentUpon>IFUsuariosGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarCliente.resx">
+      <DependentUpon>ModificarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IFClientesGUI.resx">
+      <DependentUpon>IFClientesGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EscritorioGUI.resx">
+      <DependentUpon>EscritorioGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IniciarSesionGUI.resx">
+      <DependentUpon>IniciarSesionGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarUsuarioGUI.resx">
+      <DependentUpon>ModificarUsuarioGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoClienteGUI.resx">
+      <DependentUpon>NuevoClienteGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoPedidoGUI.resx">
+      <DependentUpon>NuevoPedidoGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoUsuario.resx">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PedidosGUI.resx">
+      <DependentUpon>PedidosGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="ConnectDB.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ProveedoresGUI.resx">
+      <DependentUpon>ProveedoresGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProveedoresNuevoGUI.resx">
+      <DependentUpon>ProveedoresNuevoGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aperture_desktop_by_zeptozephyr-d4o90w2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuClie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clien.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feature-Portal-Cake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ieee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\articulos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game-portal-1920x1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\portal-simple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weighted-storage-cubes-background-hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aperture_Science_Logo_Full_HD_by_dj_corny.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aperture-science-innovators-landscape-wall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20110318142731!Portal_Gun_w.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgnuevo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

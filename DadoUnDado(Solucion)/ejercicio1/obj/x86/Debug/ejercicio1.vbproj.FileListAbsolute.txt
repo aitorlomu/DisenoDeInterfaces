@@ -1,0 +1,47 @@
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\bin\Debug\ejercicio1.xml
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Resources.resources
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.xml
+C:\Users\sergio\Desktop\DESARROLLO_EXAMEN\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\bin\Debug\ejercicio1.xml
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Resources.resources
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.xml
+C:\Users\sergio\Desktop\DESARROLLO_VERSION_DEFINITIVA\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.xml
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.xml
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Resources.resources
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\3EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.vbproj.GenerateResource.Cache
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.xml
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Resources.resources
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.vbproj.GenerateResource.Cache
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+E:\Documentacion\PENDRIVE\instituto\2014-2015\DesarrollodeInterfaces\Tema1 Interfaces\4EJERCICIO DADO\ejercicio1\ejercicio1\bin\Debug\ejercicio1.xml
+\\10.13.0.20\desarrollo de interfaces\Tema1\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+\\10.13.0.20\desarrollo de interfaces\Tema1\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.xml
+\\10.13.0.20\desarrollo de interfaces\Tema1\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\obj\x86\Debug\ejercicio1.exe
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\obj\x86\Debug\ejercicio1.xml
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\obj\x86\Debug\ejercicio1.pdb
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\bin\Debug\ejercicio1.exe
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\bin\Debug\ejercicio1.pdb
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\bin\Debug\ejercicio1.xml
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\obj\x86\Debug\ejercicio1.Resources.resources
+G:\DAM2\Desarrollo de Interfaces\Tema1\DadoUnDado(Solucion)\ejercicio1\obj\x86\Debug\ejercicio1.vbproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ProveedoresXML\Proveedores\Proveedores\bin\Debug\Proveedores.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ProveedoresXML\Proveedores\Proveedores\obj\Debug\Proveedores.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ProveedoresXML\Proveedores\Proveedores\obj\Debug\Proveedores.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\ProveedoresXML\Proveedores\Proveedores\obj\Debug\Proveedores.csproj.GenerateResource.Cache

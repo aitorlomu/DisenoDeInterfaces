@@ -1,0 +1,4 @@
+"SELECT DISTINCT P.IDPOBLACION,P.POBLACION FROM PPOBLACIONES P,PCOD_POBL CP,PPROVINCIAS PP WHERE P.IDPOBLACION = CP.IDPOBLACION "
+                    + " AND PP.IDPROVINCIA = CP.IDPROVINCIA AND PP.IDPROVINCIA= "+id_provincia+" ORDER BY P.POBLACION"
+
+// El id provincia es el id de la provincia resultado de la seleccion del combo provincias

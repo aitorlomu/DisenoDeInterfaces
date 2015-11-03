@@ -1,0 +1,255 @@
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\puente_de_mando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando_20141108_1951\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando_conProgressBar_a_medias\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Dropbox\Proyecto\Unificado\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\ErrorCargarBWMensaje\PuenteDeMando_conProgressBar_resuelto\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.4\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.5\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+N:\DAM2\Desarrollo de Interfaces\20141031\PuenteDeMando_1.6\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.7\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Downloads\PuenteDeMando_1.8\PuenteDeMando_1.8\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Dropbox\Dropbox\Proyecto\Unificado\PuenteDeMando_1.8.2\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+D:\Usuarios\Aitor\Dropbox\Dropbox\Proyecto\Unificado\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Dropbox\Dropbox\Proyecto\Unificado\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\bin\Debug\PuenteDeMando.exe
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\bin\Debug\PuenteDeMando.pdb
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\ALUMNOM\Desktop\PuenteDeMando_1.8.2\PuenteDeMando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Norman\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\bin\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.FormMensaje.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\PuenteDeMando_1.8.3\PuenteDeMando_1.8.2\puentedemando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.exe.config
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.exe
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.pdb
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.FormMensaje.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+C:\Users\Sergio\Desktop\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
+E:\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.exe.config
+E:\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.exe
+E:\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.exe.config
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.exe
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\bin\Debug\PuenteDeMando.pdb
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.csprojResolveAssemblyReference.cache
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.AboutUsGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.Autodestruccion.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.EscudoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.FormMensaje.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.Properties.Resources.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.PuenteDeMandoGUI.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.VentanaOficial.resources
+D:\Usuarios\Aitor\Documentos\DAM2\Desarrollo de Interfaces\Tema1\puenteDeMando(Sergio,Aitor,Carlos)\PuenteDeMando_1.8.4\puentedemando\obj\Debug\PuenteDeMando.csproj.GenerateResource.Cache
